@@ -1,3 +1,3 @@
 # Finance-Web-Scraper
 
-Scraping the top-25 daily top gainers using Selenium
+Web scraping project that scrapes the top-25 daily top gainers from Yahoo Finance using Selenium
